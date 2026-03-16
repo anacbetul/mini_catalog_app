@@ -26,7 +26,6 @@ flutter run
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa](assets/images/main_screen.png)
-![Ürün Detayı](assets/images/product_detail.png)
-![Ürün Detayı 2](assets/images/product_detail_2.png)
-![Sepet](assets/images/cart.png)
+| Ana Sayfa | Ürün Detayı | Sepet |
+|-----------|-------------|-------|
+| ![](assets/images/main_screen.png) | ![](assets/images/product_detail.png) | ![](assets/images/product_detail_2.png) | ![](assets/images/cart.png) |
