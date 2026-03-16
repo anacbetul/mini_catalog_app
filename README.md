@@ -1,0 +1,29 @@
+# Mini Katalog Uygulaması
+
+Flutter ile geliştirilmiş basit bir e-ticaret katalog uygulaması. Ürün listeleme, detay görüntüleme ve sepet yönetimi özelliklerini içerir.
+
+## Flutter Sürümü
+
+```
+Flutter: 3.35.3
+Dart: 3.9.2
+```
+
+## Çalıştırma Adımları
+
+```bash
+# 1. Projeyi klonlayın
+git clone https://github.com/kullanici-adi/mini-katalog-app.git
+cd mini-katalog-app
+
+# 2. Bağımlılıkları yükleyin
+flutter pub get
+
+# 3. Uygulamayı çalıştırın
+flutter run
+```
+
+
+## Ekran Görüntüleri
+
+(assets/images/main_screen.png) (assets/images/product_detail.png)(assets/images/product_detail_2.png) (assets/images/cart.png)
